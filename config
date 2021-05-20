@@ -1,5 +1,5 @@
 # open terminal
-alt - return : ~/.scripts/iterm Default
+alt - return : kitty --single-instance
 alt - s : ~/.scripts/scratchpad
 alt - n : ~/.scripts/notepad
 alt - d : ~/.scripts/docs
