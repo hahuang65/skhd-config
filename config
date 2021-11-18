@@ -2,7 +2,7 @@
 alt - return : kitty --single-instance
 alt - s : ~/.scripts/scratchpad
 alt - n : ~/.scripts/notepad
-alt - d : ~/.scripts/docs
+alt - c : ~/.scripts/docs
 
 # focus window
 alt - h : yabai -m window --focus west
