@@ -1,7 +1,7 @@
 # open terminal
 shift + alt - return : ~/.scripts/term
 alt - return : ~/.scripts/editor
-alt - s : ~/.scripts/scratchpad
+alt - s : ~/.scripts/scratchpad -t
 alt - n : ~/.scripts/notepad
 alt - c : ~/.scripts/docs
 
