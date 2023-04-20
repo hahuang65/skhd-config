@@ -3,7 +3,7 @@ shift + alt - return : ~/.scripts/term
 alt - return : ~/.scripts/editor
 alt - s : ~/.scripts/scratchpad -t
 alt - n : ~/.scripts/notepad
-alt - d : ~/.scripts/docs
+alt - x : ~/.scripts/docs
 
 # focus window
 alt - h : yabai -m window --focus west
