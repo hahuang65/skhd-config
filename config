@@ -2,7 +2,7 @@
 shift + alt - return : ~/.scripts/term
 alt - return : ~/.scripts/editor
 alt - s : ~/.scripts/scratchpad -t
-alt - n : ~/.scripts/notepad
+alt - w : ~/.scripts/notepad
 alt - x : ~/.scripts/docs
 
 # focus window
