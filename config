@@ -2,8 +2,8 @@
 shift + alt - return : ~/.scripts/term
 alt - return : ~/.scripts/editor
 alt - s : ~/.scripts/scratchpad -t
-alt - w : ~/.scripts/notepad
-alt - x : ~/.scripts/docs
+alt - w : yabai -m window --toggle notepad || open -a Obsidian
+alt - x : yabai -m window --toggle docs || open -a Dash
 
 # focus window
 alt - h : yabai -m window --focus west
