@@ -1,7 +1,7 @@
 # open terminal
 shift + alt - return : ~/.scripts/term
 alt - return : ~/.scripts/editor
-alt - s : ~/.scripts/scratchpad -t
+alt - s : yabai -m window --toggle terminal || ~/.scripts/scratchpad
 alt - w : yabai -m window --toggle notepad || open -a Obsidian
 alt - x : yabai -m window --toggle docs || open -a Dash
 
